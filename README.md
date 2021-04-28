@@ -1,5 +1,5 @@
 # flutter
-contains BMI calcuator app developed using flutter.
+ BMI calcuator app developed using flutter.
 
 # App Description:
 The BMI calculator app calculates the Body mass Index of a person.
