@@ -12,6 +12,6 @@ Finally the user can click the get BMI button and it takes to the result page wh
 ##Appscreenshots:
 ![main_page](https://user-images.githubusercontent.com/67912824/116354851-a1122580-a816-11eb-9478-76711e32c67d.PNG)
 
-
+##second page:
 ![result_page](https://user-images.githubusercontent.com/67912824/116355142-0cf48e00-a817-11eb-9d6c-76ea33057065.PNG)
 
